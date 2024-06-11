@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lgflul2CwZpmwSL4PK7josS394vm7uYcvXFOcxuDmro=",
+  "Source": "BankRelationshipManagerAPI",
+  "BasePath": "_content/BankRelationshipManagerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
